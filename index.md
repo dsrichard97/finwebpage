@@ -2,19 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
--> [Link to dashboard - click here](./another-page.html)
 
 # ABOUT PROJECT
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The finance project is a compilation of TESLA financial reporting line items with a blend of machine learning, reporting, and dashboard visualizations. The goal of this project is to be able to help non-technical users and finance individuals with a better understanding of finance terminology. The goal is rather to raise awareness and help others be aware of financial accouting.
 
 # ABOUT US
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+We are group of data scientist, financial analysts, and researchers. Collectively, we are trained 
+mathmaticans using data reporting techniques and briding automation tehcniques to non-technical users. 
 
 # USE CASE
 
