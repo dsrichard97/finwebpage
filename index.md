@@ -3,16 +3,16 @@ layout: default
 ---
 
 
-# ABOUT PROJECT
+# <span style="color: blue;">ABOUT PROJECT</span>
 
 This finance project compiles Tesla's financial reporting line items and integrates machine learning, reporting, and dashboard visualizations. The goal is to help non-technical users easily understand financial trends. Ultimately, the project aims to raise awareness and improve comprehension of financial accounting through visual aids and the use of a large language model (LLM) for questionnaires.
 
 
-# ABOUT US
+# <span style="color: green;">ABOUT US</span>
 
 We are a group of data scientists, financial analysts, and researchers. Collectively, we are trained mathematicians using data reporting techniques and bridging automation solutions for non-technical users.
 
-# ABOUT THE TEAM
+# <span style="color: orange;">ABOUT THE TEAM</span>
 
 ## Team Member 1
 
