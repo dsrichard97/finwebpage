@@ -5,126 +5,96 @@ layout: default
 
 # ABOUT PROJECT
 
-The finance project is a compilation of TESLA financial reporting line items with a blend of machine learning, reporting, and dashboard visualizations. The goal of this project is to be able to help non-technical users and finance individuals with a better understanding of finance terminology. The goal is rather to raise awareness and help others be aware of financial accouting.
+This finance project compiles Tesla's financial reporting line items and integrates machine learning, reporting, and dashboard visualizations. The goal is to help non-technical users easily understand financial trends. Ultimately, the project aims to raise awareness and improve comprehension of financial accounting through visual aids and the use of a large language model (LLM) for questionnaires.
+
 
 # ABOUT US
 
-We are group of data scientist, financial analysts, and researchers. Collectively, we are trained 
-mathmaticans using data reporting techniques and briding automation tehcniques to non-technical users. 
+We are a group of data scientists, financial analysts, and researchers. Collectively, we are trained mathematicians using data reporting techniques and bridging automation solutions for non-technical users.
 
-# USE CASE
+# ABOUT THE TEAM
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Team Member 1
 
-### Header 3
+![Team Member 1](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Summary:**  
+Team Member 1 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Team Member 2
 
-##### Header 5
+![Team Member 2](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**Summary:**  
+Team Member 2 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
 
-###### Header 6
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## Team Member 3
 
-* * *
+![Team Member 3](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Here is an unordered list:
+**Summary:**  
+Team Member 3 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## Team Member 4
 
-### And a nested list:
+![Team Member 4](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+**Summary:**  
+Team Member 4 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
 
-### Small image
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
+---
 
-### Large image
+## Team Member 5
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Team Member 5](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
+**Summary:**  
+Team Member 5 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
 
-### Definition lists can be used with HTML syntax.
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+---
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Team Member 6
 
-```
-The final element.
-```
+![Team Member 6](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-# MOTIVATION
-[Link to another page](./another-page.html)
+**Summary:**  
+Team Member 6 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
 
-[Link to another page](./another-page.html)
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
 
-[Link to another page](./another-page.html)
+---
 
-[Link to another page](./another-page.html)
+## Team Member 7
+
+![Team Member 7](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+**Summary:**  
+Team Member 7 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+
+---

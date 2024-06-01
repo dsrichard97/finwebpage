@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -80,189 +46,99 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
-<p>-&gt; <a href="./another-page.html">Link to dashboard - click here</a></p>
 <section id="about-project" class="level1">
 <h1>ABOUT PROJECT</h1>
-<p>There should be whitespace between paragraphs.</p>
-<p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
+<p>This finance project compiles Tesla’s financial reporting line items and integrates machine learning, reporting, and dashboard visualizations. The goal is to help non-technical users easily understand financial trends. Ultimately, the project aims to raise awareness and improve comprehension of financial accounting through visual aids and the use of a large language model (LLM) for questionnaires.</p>
 </section>
 <section id="about-us" class="level1">
 <h1>ABOUT US</h1>
-<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+<p>We are a group of data scientists, financial analysts, and researchers. Collectively, we are trained mathematicians using data reporting techniques and bridging automation solutions for non-technical users.</p>
 </section>
-<section id="use-case" class="level1">
-<h1>USE CASE</h1>
-<blockquote class="blockquote">
-<p>This is a blockquote following a header.</p>
-<p>When something is important enough, you do it even if the odds are not in your favor.</p>
-</blockquote>
-<section id="header-3" class="level3">
-<h3 class="anchored" data-anchor-id="header-3">Header 3</h3>
-<div class="sourceCode" id="cb1"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Javascript code with syntax highlighting.</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> fun <span class="op">=</span> <span class="kw">function</span> <span class="fu">lang</span>(l) {</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  dateformat<span class="op">.</span><span class="at">i18n</span> <span class="op">=</span> <span class="pp">require</span>(<span class="st">'./lang/'</span> <span class="op">+</span> l)</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="cf">return</span> <span class="kw">true</span><span class="op">;</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="sourceCode" id="cb2"><pre class="sourceCode ruby code-with-copy"><code class="sourceCode ruby"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Ruby code with syntax highlighting</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="dt">GitHubPages</span><span class="kw">::</span><span class="dt">Dependencies</span><span class="at">.gems.each</span> <span class="cf">do</span> <span class="kw">|</span>gem, version<span class="kw">|</span></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  s<span class="at">.add_dependency</span>(gem, <span class="st">"= </span><span class="sc">#{</span>version<span class="sc">}</span><span class="st">"</span>)</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="cf">end</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<section id="header-4" class="level4">
-<h4 class="anchored" data-anchor-id="header-4">Header 4</h4>
-<ul>
-<li>This is an unordered list following a header.</li>
-<li>This is an unordered list following a header.</li>
-<li>This is an unordered list following a header.</li>
-</ul>
-<section id="header-5" class="level5">
-<h5 class="anchored" data-anchor-id="header-5">Header 5</h5>
-<ol type="1">
-<li>This is an ordered list following a header.</li>
-<li>This is an ordered list following a header.</li>
-<li>This is an ordered list following a header.</li>
-</ol>
-<section id="header-6" class="level6">
-<h6 class="anchored" data-anchor-id="header-6">Header 6</h6>
-<table class="table">
-<thead>
-<tr class="header">
-<th style="text-align: left;">head1</th>
-<th style="text-align: left;">head two</th>
-<th style="text-align: left;">three</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">ok</td>
-<td style="text-align: left;">good swedish fish</td>
-<td style="text-align: left;">nice</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">out of stock</td>
-<td style="text-align: left;">good and plenty</td>
-<td style="text-align: left;">nice</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">ok</td>
-<td style="text-align: left;">good <code>oreos</code></td>
-<td style="text-align: left;">hmm</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">ok</td>
-<td style="text-align: left;">good <code>zoute</code> drop</td>
-<td style="text-align: left;">yumm</td>
-</tr>
-</tbody>
-</table>
-</section>
-</section>
-</section>
-</section>
-<section id="theres-a-horizontal-rule-below-this." class="level3">
-<h3 class="anchored" data-anchor-id="theres-a-horizontal-rule-below-this.">There’s a horizontal rule below this.</h3>
-<hr>
-</section>
-<section id="here-is-an-unordered-list" class="level3">
-<h3 class="anchored" data-anchor-id="here-is-an-unordered-list">Here is an unordered list:</h3>
-<ul>
-<li>Item foo</li>
-<li>Item bar</li>
-<li>Item baz</li>
-<li>Item zip</li>
-</ul>
-</section>
-<section id="and-an-ordered-list" class="level3">
-<h3 class="anchored" data-anchor-id="and-an-ordered-list">And an ordered list:</h3>
-<ol type="1">
-<li>Item one</li>
-<li>Item two</li>
-<li>Item three</li>
-<li>Item four</li>
-</ol>
-</section>
-<section id="and-a-nested-list" class="level3">
-<h3 class="anchored" data-anchor-id="and-a-nested-list">And a nested list:</h3>
-<ul>
-<li>level 1 item
-<ul>
-<li>level 2 item</li>
-<li>level 2 item
-<ul>
-<li>level 3 item</li>
-<li>level 3 item</li>
-</ul></li>
-</ul></li>
-<li>level 1 item
-<ul>
-<li>level 2 item</li>
-<li>level 2 item</li>
-<li>level 2 item</li>
-</ul></li>
-<li>level 1 item
-<ul>
-<li>level 2 item</li>
-<li>level 2 item</li>
-</ul></li>
-<li>level 1 item</li>
-</ul>
-</section>
-<section id="small-image" class="level3">
-<h3 class="anchored" data-anchor-id="small-image">Small image</h3>
+<section id="about-the-team" class="level1">
+<h1>ABOUT THE TEAM</h1>
+<section id="team-member-1" class="level2">
+<h2 class="anchored" data-anchor-id="team-member-1">Team Member 1</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" class="img-fluid figure-img"></p>
-<figcaption>Octocat</figcaption>
+<figcaption>Team Member 1</figcaption>
 </figure>
 </div>
+<p><strong>Summary:</strong><br>
+Team Member 1 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.</p>
+<p><strong>Links:</strong><br>
+<a href="https://github.com">GitHub</a> | <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://twitter.com">Twitter</a></p>
+<hr>
 </section>
-<section id="large-image" class="level3">
-<h3 class="anchored" data-anchor-id="large-image">Large image</h3>
+<section id="team-member-2" class="level2">
+<h2 class="anchored" data-anchor-id="team-member-2">Team Member 2</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://guides.github.com/activities/hello-world/branching.png" class="img-fluid figure-img"></p>
-<figcaption>Branching</figcaption>
+<p><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" class="img-fluid figure-img"></p>
+<figcaption>Team Member 2</figcaption>
 </figure>
 </div>
+<p><strong>Summary:</strong><br>
+Team Member 2 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.</p>
+<p><strong>Links:</strong><br>
+<a href="https://github.com">GitHub</a> | <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://twitter.com">Twitter</a></p>
+<hr>
 </section>
-<section id="definition-lists-can-be-used-with-html-syntax." class="level3">
-<h3 class="anchored" data-anchor-id="definition-lists-can-be-used-with-html-syntax.">Definition lists can be used with HTML syntax.</h3>
-<dl>
-<dt>
-Name
-</dt>
-<dd>
-Godzilla
-</dd>
-<dt>
-Born
-</dt>
-<dd>
-1952
-</dd>
-<dt>
-Birthplace
-</dt>
-<dd>
-Japan
-</dd>
-<dt>
-Color
-</dt>
-<dd>
-Green
-</dd>
-</dl>
-<pre><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.</code></pre>
-<pre><code>The final element.</code></pre>
+<section id="team-member-3" class="level2">
+<h2 class="anchored" data-anchor-id="team-member-3">Team Member 3</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" class="img-fluid figure-img"></p>
+<figcaption>Team Member 3</figcaption>
+</figure>
+</div>
+<p><strong>Summary:</strong><br>
+Team Member 3 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.</p>
+<p><strong>Links:</strong><br>
+<a href="https://github.com">GitHub</a> | <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://twitter.com">Twitter</a></p>
+<hr>
 </section>
+<section id="team-member-4" class="level2">
+<h2 class="anchored" data-anchor-id="team-member-4">Team Member 4</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" class="img-fluid figure-img"></p>
+<figcaption>Team Member 4</figcaption>
+</figure>
+</div>
+<p><strong>Summary:</strong><br>
+Team Member 4 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.</p>
+<p><strong>Links:</strong><br>
+<a href="https://github.com">GitHub</a> | <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://twitter.com">Twitter</a></p>
 </section>
-<section id="motivation" class="level1">
-<h1>MOTIVATION</h1>
-<p><a href="./another-page.html">Link to another page</a></p>
-<p><a href="./another-page.html">Link to another page</a></p>
-<p><a href="./another-page.html">Link to another page</a></p>
-<p><a href="./another-page.html">Link to another page</a></p>
+<section id="team-member-5" class="level2">
+<h2 class="anchored" data-anchor-id="team-member-5">Team Member 5</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" class="img-fluid figure-img"></p>
+<figcaption>Team Member 5</figcaption>
+</figure>
+</div>
+<p><strong>Summary:</strong><br>
+Team Member 5 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.</p>
+<p><strong>Links:</strong><br>
+<a href="https://github.com">GitHub</a> | <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://twitter.com">Twitter</a></p>
+<hr>
+</section>
+<section id="team-member-6" class="level2">
+<h2 class="anchored" data-anchor-id="team-member-6">Team Member 6</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" class="img-fluid figure-img"></p>
+<figcaption>Team Member 6</figcaption>
+</figure>
+</div>
+<p><strong>Summary:</strong><br>
+Team Member 6 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.</p>
+<p><strong>Links:</strong><br>
+<a href="https://github.com">GitHub</a> | <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://twitter.com">Twitter</a></p>
+<hr>
+</section>
 </section>
 
 </main>
