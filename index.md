@@ -16,7 +16,7 @@ We are a group of data scientists, financial analysts, and researchers. Collecti
 
 ## Cory Suzuki
 
-![Team Member 1](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 1](https://github.com/dsrichard97/finwebpage/blob/master/cory.jpeg?raw=true)
 
 **Summary:**  
 Graduate Student of Applied Statistics at CSULB. Passionate about data science, numerical methods, machine learning, and computation theory.
@@ -28,7 +28,7 @@ Graduate Student of Applied Statistics at CSULB. Passionate about data science, 
 
 ## Daniel Lam
 
-![Team Member 2](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 2](https://github.com/dsrichard97/finwebpage/blob/master/daniel.jpeg?raw=true)
 
 **Summary:**  
 Summary: I'm a math-savvy data scientist skilled in Python/SQL. I simplify statistics and craft impactful data analyses for informed decision-making.
