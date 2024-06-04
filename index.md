@@ -14,27 +14,27 @@ We are a group of data scientists, financial analysts, and researchers. Collecti
 
 # <span style="color: orange;">ABOUT THE TEAM</span>
 
-## Team Member 1
+## Cory Suzuki
 
 ![Team Member 1](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 **Summary:**  
-Team Member 1 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
+Graduate Student of Applied Statistics at CSULB. Passionate about data science, numerical methods, machine learning, and computation theory.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+[GitHub](https://github.com/CorySuzuki1729) | [LinkedIn](https://www.linkedin.com/in/corysuzukiprof314/) | [Portfolio](https://github.com/CorySuzuki1729/STAT_510_Mental_Health)
 
 ---
 
-## Team Member 2
+## Daniel Lam
 
 ![Team Member 2](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 **Summary:**  
-Team Member 2 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+Summary: I'm a math-savvy data scientist skilled in Python/SQL. I simplify statistics and craft impactful data analyses for informed decision-making.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+[GitHub](https://github.com/dannyguy253) | [LinkedIn](https://www.linkedin.com/in/daniel-lam253/) | [Portfolio](https://github.com/dannyguy253/DataAnalysisPortfolio)
 
 ---
 
@@ -46,7 +46,7 @@ Team Member 2 is a seasoned financial analyst with a background in financial rep
 Team Member 3 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
 
 ---
 
@@ -58,7 +58,7 @@ Team Member 3 is a skilled data scientist with extensive experience in machine l
 Team Member 4 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
 
 ---
 ---
@@ -71,7 +71,7 @@ Team Member 4 is a seasoned financial analyst with a background in financial rep
 Team Member 5 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
 
 ---
 
@@ -83,7 +83,7 @@ Team Member 5 is a skilled data scientist with extensive experience in machine l
 Team Member 6 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
 
 ---
 
@@ -95,6 +95,6 @@ Team Member 6 is a seasoned financial analyst with a background in financial rep
 Team Member 7 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com)
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
 
 ---
