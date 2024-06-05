@@ -31,22 +31,22 @@ Graduate Student of Applied Statistics at CSULB. Passionate about data science, 
 ![Team Member 2](https://github.com/dsrichard97/finwebpage/blob/master/daniel.jpeg?raw=true)
 
 **Summary:**  
-Summary: I'm a math-savvy data scientist skilled in Python/SQL. I simplify statistics and craft impactful data analyses for informed decision-making.
+I'm a math-savvy data scientist skilled in Python/SQL. I simplify statistics and craft impactful data analyses for informed decision-making.
 
 **Links:**  
 [GitHub](https://github.com/dannyguy253) | [LinkedIn](https://www.linkedin.com/in/daniel-lam253/) | [Portfolio](https://github.com/dannyguy253/DataAnalysisPortfolio)
 
 ---
 
-## Team Member 3
+## Tec
 
 ![Team Member 3](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 **Summary:**  
-Team Member 3 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
+An Applied Statistics and Mathematical Economics student from Cambodia who is passionate about the field of data science and wants to use data-driven insights and techniques to solve real-world issues.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+[GitHub](https://github.com/Techavoan) 
 
 ---
 
