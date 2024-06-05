@@ -46,7 +46,7 @@ I'm a math-savvy data scientist skilled in Python/SQL. I simplify statistics and
 An Applied Statistics and Mathematical Economics student from Cambodia who is passionate about the field of data science and wants to use data-driven insights and techniques to solve real-world issues.
 
 **Links:**  
-[GitHub](https://github.com/Techavoan) 
+[GitHub](https://github.com/Techavoan) | [LinkedIn](https://www.linkedin.com/in/rithy-techavoan-yean-852031228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
