@@ -50,15 +50,15 @@ An Applied Statistics and Mathematical Economics student from Cambodia who is pa
 
 ---
 
-## Team Member 4
+## Nathaniel Talampas
 
 ![Team Member 4](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 **Summary:**  
-Team Member 4 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+Graduate Student in Applied Statistics at CSULB with a strong interest in data science, data analytics, machine learning, and computational statistics
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+[GitHub](https://github.com/n8tmps) | [LinkedIn](https://www.linkedin.com/in/nathaniel-talampas-3644a5203/) | [Portfolio](https://twitter.com)
 
 ---
 ---
