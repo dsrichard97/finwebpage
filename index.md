@@ -38,7 +38,7 @@ I'm a math-savvy data scientist skilled in Python/SQL. I simplify statistics and
 
 ---
 
-## Tec
+## Rithy Techavoan
 
 ![Team Member 3](https://github.com/dsrichard97/finwebpage/blob/master/tec.jpeg?raw=true)
 
