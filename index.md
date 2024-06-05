@@ -98,3 +98,40 @@ Team Member 7 is a seasoned financial analyst with a background in financial rep
 [GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
 
 ---
+
+## Team Member 8
+
+![Team Member 8](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+**Summary:**  
+Team Member 8 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+
+---
+
+## Team Member 9
+
+![Team Member 9](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+**Summary:**  
+Team Member 9 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+
+---
+
+## Team Member 10
+
+![Team Member 10](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+**Summary:**  
+Team Member 10 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+
+**Links:**  
+[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+
+---
+
