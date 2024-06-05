@@ -52,7 +52,7 @@ An Applied Statistics and Mathematical Economics student from Cambodia who is pa
 
 ## Nathaniel Talampas
 
-![Team Member 4](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 4](https://github.com/dsrichard97/finwebpage/blob/master/nate.jpeg?raw=true)
 
 **Summary:**  
 Graduate Student in Applied Statistics at CSULB with a strong interest in data science, data analytics, machine learning, and computational statistics
