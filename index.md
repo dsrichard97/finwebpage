@@ -65,7 +65,7 @@ Graduate Student in Applied Statistics at CSULB with a strong interest in data s
 
 ## Andres Gonzalez
 
-![Team Member 5](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 5](https://github.com/dsrichard97/finwebpage/blob/master/andres.jpeg?raw=true)
 
 **Summary:**  
 Team Member 5 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
