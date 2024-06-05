@@ -63,7 +63,7 @@ Graduate Student in Applied Statistics at CSULB with a strong interest in data s
 ---
 ---
 
-## Team Member 5
+## Andres Gonzalez
 
 ![Team Member 5](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
@@ -75,15 +75,15 @@ Team Member 5 is a skilled data scientist with extensive experience in machine l
 
 ---
 
-## Team Member 6
+## Gerry Cruz
 
 ![Team Member 6](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 **Summary:**  
-Team Member 6 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+I am currently pursuing a Master of Science in Applied Statistics at California State University, Long Beach. As a passionate Data Science enthusiast, I am dedicated to leveraging my skills to make a positive impact on communities in need. My current focus lies in applying Data Science to the field of public health, where I aim to contribute to the well-being and health of populations through data-driven insights and solutions.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+[GitHub](https://github.com/cgerry98) | [LinkedIn](https://www.linkedin.com/in/gerry-cruz-53a854182/) | [Instagram](https://www.instagram.com/123GERRY_CRUZ/)
 
 ---
 
