@@ -40,7 +40,7 @@ I'm a math-savvy data scientist skilled in Python/SQL. I simplify statistics and
 
 ## Tec
 
-![Team Member 3](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 3](https://github.com/dsrichard97/finwebpage/blob/master/tec.jpeg?raw=true)
 
 **Summary:**  
 An Applied Statistics and Mathematical Economics student from Cambodia who is passionate about the field of data science and wants to use data-driven insights and techniques to solve real-world issues.
