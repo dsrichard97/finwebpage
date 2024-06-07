@@ -92,7 +92,7 @@ I am currently pursuing a Master of Science in Applied Statistics at California 
 ![Team Member 7](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 **Summary:**  
-Team Member 7 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+Mathematic Master's graduate from Long Beach State University. Working as a Research Analyst for the Los Angeles County Department of Public Health - Division of HIV and STD Programs.
 
 **Links:**  
 [GitHub](https://www.linkedin.com/in/luisosorio3214/) | [LinkedIn](https://github.com/luisosorio3214) | [Portfolio](https://github.com/luisosorio3214/Airline-Satisfaction-Prediction-App)
