@@ -68,7 +68,7 @@ Graduate Student in Applied Statistics at CSULB with a strong interest in data s
 ![Team Member 5](https://github.com/dsrichard97/finwebpage/blob/master/andres.jpeg?raw=true)
 
 **Summary:**  
-Team Member 5 is a skilled data scientist with extensive experience in machine learning and data visualization. They have a passion for making complex data accessible to non-technical users.
+Hi! I’m Andres. I was born and raised in Los Angeles and have recently completed my Master’s in Applied Statistics. I have a strong interest in data science, particularly in machine learning and Bayesian methods.
 
 **Links:**  
 [GitHub](https://github.com/OKcomputer626) | [LinkedIn](https://www.linkedin.com/in/andresgonzalez26/) | [Portfolio](https://okcomputer626.quarto.pub/andres-gonzalez/)
@@ -87,7 +87,7 @@ I am currently pursuing a Master of Science in Applied Statistics at California 
 
 ---
 
-## Team Member 7
+## Luis Osorio
 
 ![Team Member 7](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
@@ -95,19 +95,20 @@ I am currently pursuing a Master of Science in Applied Statistics at California 
 Team Member 7 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+[GitHub](https://www.linkedin.com/in/luisosorio3214/) | [LinkedIn](https://github.com/luisosorio3214) | [Portfolio](https://github.com/luisosorio3214/Airline-Satisfaction-Prediction-App)
 
 ---
 
-## Team Member 8
+## Richard DiazDeLeon
 
 ![Team Member 8](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 **Summary:**  
-Team Member 8 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+Financial analyst in healthcare with a mathematical approach in analyzing data and data science methods. On my free time, I am learning software engineering skills
+to deploy data science tools and automated processes through my startup.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+[GitHub](https://github.com/dsrichard97) | [LinkedIn](https://www.linkedin.com/in/richarddiazdeleon/) | [Portfolio](https://dsrichard97.github.io/web/)
 
 ---
 
