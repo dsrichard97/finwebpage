@@ -55,7 +55,7 @@ An Applied Statistics and Mathematical Economics student from Cambodia who is pa
 ![Team Member 4](https://github.com/dsrichard97/finwebpage/blob/master/nate.jpeg?raw=true)
 
 **Summary:**  
- Graduate Student in Applied Statistics at CSULB with a strong interest in data science, data analytics, machine learning, and computational statistics; background in economics and quantitative analysis.
+Graduate Student in Applied Statistics at CSULB with a strong interest in data science, data analytics, machine learning, and computational statistics; background in economics and quantitative analysis.
 
 **Links:**  
 [GitHub](https://github.com/n8tmps) | [LinkedIn](https://www.linkedin.com/in/nathaniel-talampas-3644a5203/) | [Portfolio](https://n8tmps.github.io/)
