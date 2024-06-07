@@ -101,7 +101,7 @@ Mathematic Master's graduate from Long Beach State University. Working as a Rese
 
 ## Richard DiazDeLeon
 
-![Team Member 8](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 8](https://github.com/dsrichard97/finwebpage/blob/master/richard.jpeg?raw=true)
 
 **Summary:**  
 Financial analyst in healthcare with a mathematical approach in analyzing data and data science methods. On my free time, I am learning software engineering skills
@@ -114,7 +114,7 @@ to deploy data science tools and automated processes through my startup.
 
 ## Megan Kem
 
-![Team Member 9](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 9](https://github.com/dsrichard97/finwebpage/blob/master/megan.jpeg?raw=true)
 
 **Summary:**  
 I am a graduate of CSULB with a master’s degree in Applied Mathematics, specialized in Ordinary Differential Equations and Numerical Analysis. I enjoy statistical programming, coding challenging math algorithms, and infusing my creativity into everything I do.
