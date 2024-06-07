@@ -104,8 +104,7 @@ Mathematic Master's graduate from Long Beach State University. Working as a Rese
 ![Team Member 8](https://github.com/dsrichard97/finwebpage/blob/master/richard.jpeg?raw=true)
 
 **Summary:**  
-Financial analyst in healthcare with a mathematical approach in analyzing data and data science methods. On my free time, I am learning software engineering skills
-to deploy data science tools and automated processes through my startup.
+As a financial analyst in healthcare, I leverage a mathematical approach to data analysis and utilize data science methods to drive insights. In my free time, I am expanding my software engineering skills to develop and deploy data science tools and automate processes through my startup.
 
 **Links:**  
 [GitHub](https://github.com/dsrichard97) | [LinkedIn](https://www.linkedin.com/in/richarddiazdeleon/) | [Portfolio](https://dsrichard97.github.io/web/)
