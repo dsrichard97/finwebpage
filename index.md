@@ -119,8 +119,7 @@ As a financial analyst in healthcare, I leverage a mathematical approach to data
 I am a graduate of CSULB with a master’s degree in Applied Mathematics, specialized in Ordinary Differential Equations and Numerical Analysis. I enjoy statistical programming, coding challenging math algorithms, and infusing my creativity into everything I do.
 
 **Links:**  
-[GitHub](https://github.com/megankem) | [LinkedIn](https://www.linkedin.com/in/megan-k-b625a7193/) | [Portfolio](https://twitter.com)
-
+[GitHub](https://github.com/megankem) | [LinkedIn](https://www.linkedin.com/in/megan-k-b625a7193/) 
 ---
 
 ## Team Member 10
