@@ -89,7 +89,7 @@ I am currently pursuing a Master of Science in Applied Statistics at California 
 
 ## Luis Osorio
 
-![Team Member 7](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 7](https://github.com/dsrichard97/finwebpage/blob/master/luis.jpeg?raw=true)
 
 **Summary:**  
 Mathematic Master's graduate from Long Beach State University. Working as a Research Analyst for the Los Angeles County Department of Public Health - Division of HIV and STD Programs.
@@ -112,15 +112,15 @@ to deploy data science tools and automated processes through my startup.
 
 ---
 
-## Team Member 9
+## Megan Kem
 
 ![Team Member 9](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 **Summary:**  
-Team Member 9 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+I am a graduate of CSULB with a master’s degree in Applied Mathematics, specialized in Ordinary Differential Equations and Numerical Analysis. I enjoy statistical programming, coding challenging math algorithms, and infusing my creativity into everything I do.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+[GitHub](https://github.com/megankem) | [LinkedIn](https://www.linkedin.com/in/megan-k-b625a7193/) | [Portfolio](https://twitter.com)
 
 ---
 
