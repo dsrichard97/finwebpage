@@ -68,7 +68,7 @@ An Applied Statistics and Mathematical Economics student from Cambodia who is pa
 ![Team Member 5](https://github.com/dsrichard97/finwebpage/blob/master/andres.jpeg?raw=true)
 
 **Summary:**  
-Hi! I’m Andres. I was born and raised in Los Angeles and have recently completed my Master’s in Applied Statistics. I have a strong interest in data science, particularly in machine learning and Bayesian methods.
+I hold a Master's degree in Applied Statistics from California State University, Long Beach, and a Bachelor's degree in Applied Mathematics from California State Polytechnic University, Pomona.
 
 **Links:**  
 [GitHub](https://github.com/OKcomputer626) | [LinkedIn](https://www.linkedin.com/in/andresgonzalez26/) | [Portfolio](https://okcomputer626.quarto.pub/andres-gonzalez/)
