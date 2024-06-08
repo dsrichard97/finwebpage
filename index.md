@@ -120,6 +120,7 @@ I am a graduate of CSULB with a master’s degree in Applied Mathematics, specia
 
 **Links:**  
 [GitHub](https://github.com/megankem) | [LinkedIn](https://www.linkedin.com/in/megan-k-b625a7193/) 
+
 ---
 
 ## Raymond Chau
@@ -130,6 +131,8 @@ I am a graduate of CSULB with a master’s degree in Applied Mathematics, specia
 MS in applied Mathematics with a strong interest in statistic and Numerical Analysis.  Desire to use  mathematics and statistics to help companies make informed decisions for profitability.
 **Links:**  
 [GitHub](https://github.com/blater54) | [LinkedIn](https://www.linkedin.com/in/raymondchau2532/) | [Portfolio](https://twitter.com)
+
+---
 
 ## Yodd Mena
 
