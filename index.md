@@ -124,7 +124,7 @@ I am a graduate of CSULB with a master’s degree in Applied Mathematics, specia
 
 ## Raymond Chau
 
-![Team Member 10](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 10](https://github.com/dsrichard97/finwebpage/blob/master/rayray.jpeg?raw=true)
 
 **Summary:**  
 MS in applied Mathematics with a strong interest in statistic and Numerical Analysis.  Desire to use  mathematics and statistics to help companies make informed decisions for profitability.
