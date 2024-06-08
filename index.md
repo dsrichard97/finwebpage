@@ -122,7 +122,16 @@ I am a graduate of CSULB with a master’s degree in Applied Mathematics, specia
 [GitHub](https://github.com/megankem) | [LinkedIn](https://www.linkedin.com/in/megan-k-b625a7193/) 
 ---
 
-## Team Member 10
+## Raymond Chau
+
+![Team Member 10](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+**Summary:**  
+MS in applied Mathematics with a strong interest in statistic and Numerical Analysis.  Desire to use  mathematics and statistics to help companies make informed decisions for profitability.
+**Links:**  
+[GitHub](https://github.com/blater54) | [LinkedIn](https://www.linkedin.com/in/raymondchau2532/) | [Portfolio](https://twitter.com)
+
+## Yodd Mena
 
 ![Team Member 10](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
@@ -130,7 +139,7 @@ I am a graduate of CSULB with a master’s degree in Applied Mathematics, specia
 Team Member 10 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
 
 **Links:**  
-[GitHub](https://github.com) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://twitter.com)
+[GitHub](https://github.com/sheyaa) | [LinkedIn](www.linkedin.com/in/yoddmena) | [Portfolio](https://twitter.com)
 
 ---
 
