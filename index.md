@@ -136,7 +136,7 @@ MS in applied Mathematics with a strong interest in statistic and Numerical Anal
 
 ## Yodd Mena
 
-![Team Member 10](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Team Member 10](https://github.com/dsrichard97/finwebpage/blob/master/yodd.jpeg?raw=true)
 
 **Summary:**  
 Team Member 10 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
