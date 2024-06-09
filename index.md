@@ -139,7 +139,9 @@ MS in applied Mathematics with a strong interest in statistic and Numerical Anal
 ![Team Member 10](https://github.com/dsrichard97/finwebpage/blob/master/yodd.jpeg?raw=true)
 
 **Summary:**  
-Team Member 10 is a seasoned financial analyst with a background in financial reporting and automation. They are dedicated to bridging the gap between technical and non-technical users through innovative solutions.
+Sorry for the confusion, I thought you meant summary of the analysis. Here is my summary:
+
+I hold a master's degree in mathematics with a specialization in statistics from Cal Poly Pomona, where my fascination with puzzles and patterns drives my passion for data analysis. I enjoy creating projects that allow me to apply my analytical skills to uncover meaningful insights. My expertise includes working with time series data and machine learning, and I am always eager to expand my knowledge and stay at the forefront of the field.
 
 **Links:**  
 [GitHub](https://github.com/sheyaa) | [LinkedIn](www.linkedin.com/in/yoddmena) | [Portfolio](https://twitter.com)
